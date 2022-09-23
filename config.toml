@@ -72,23 +72,23 @@ body = '''
 
 [[params.three.feature]]
 icon = "fa-laptop"
-title = "Following industrial standard"
+title = "Following industrial standards"
 body = "TidalWave platform speaks the language of the industry and is interoperable with most."
 
 [[params.three.feature]]
 icon = "fa-code"
 title = "Driven by tech"
-body = "Breaking through technology from veterans in the space"
+body = "Breaking through technology from veterans in the space."
 
 [[params.three.feature]]
 icon = "fa-headphones"
 title = "Easy to use by design"
-body = "Our system does the hard work so you don't have to"
+body = "Our system does the hard work so you don't have to."
 
 [[params.three.feature]]
 icon = "fa-heart-o"
 title = "Built for everyone"
-body = "Democratizing financial tasks to every individual"
+body = "Democratizing financial tasks to every individual with transparency and accountability."
 
 [params.cta]
 enable = true 
