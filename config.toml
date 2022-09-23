@@ -91,19 +91,19 @@ title = "Built for everyone"
 body = "Democratizing financial tasks to every individual"
 
 [params.cta]
-enable = false
-title = "Arcue ut vel commodo"
-body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+enable = true 
+title = "Stay tuned for more"
+body = ""
 
 [[params.cta.link]]
-href = "#"
-text = "Activate"
+href = "mailto:contact@tidalhq.com"
+text = "Contact Us"
 special = true
 
-[[params.cta.link]]
-href = "#"
-text = "Learn More"
-special = false
+#[[params.cta.link]]
+#href = "#"
+#text = "Learn More"
+#special = false
 
 [params.contact]
 enable = false
