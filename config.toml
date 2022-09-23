@@ -73,7 +73,7 @@ body = '''
 [[params.three.feature]]
 icon = "fa-laptop"
 title = "Following industrial standard"
-body = "TidalWave platform speaks the language of the industry and interoperable with most."
+body = "TidalWave platform speaks the language of the industry and is interoperable with most."
 
 [[params.three.feature]]
 icon = "fa-code"
@@ -83,7 +83,7 @@ body = "Breaking through technology from veterans in the space"
 [[params.three.feature]]
 icon = "fa-headphones"
 title = "Easy to use by design"
-body = "Our system do the hard work so you don't have to"
+body = "Our system does the hard work so you don't have to"
 
 [[params.three.feature]]
 icon = "fa-heart-o"
