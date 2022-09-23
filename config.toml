@@ -1,0 +1,5 @@
+baseURL = 'https://tidalhq.com/'
+languageCode = 'en-us'
+title = 'TidalWave Tech'
+theme = 'hugo-whisper-theme'
+
